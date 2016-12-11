@@ -7,8 +7,8 @@ const webpackConfig = require('./webpack.config');
 const devServer = require('webpack-dev-server');
 
 const s3 = require('gulp-s3-upload')({
-  accessKeyId:"AKIAJTKN54ZVBT2BKSDQ",
-  secretAccessKey:"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"
+  accessKeyId:"XXX",
+  secretAccessKey:"xxxx"
 });
 
 
